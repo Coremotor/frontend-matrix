@@ -1,0 +1,192 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": "Typescript Types:",
+        "details": [
+          "Assertions",
+          "Primitive types",
+          "Object types",
+          "Other types"
+        ]
+      },
+      {
+        "description": "Combining Types:",
+        "details": [
+          "Union Types",
+          "Intersection Types",
+          "Type Aliases",
+          "keyof Operator"
+        ]
+      },
+      {
+        "description": "Interfaces:",
+        "details": [
+          "Types vs Interfaces",
+          "Extending Interfaces",
+          "Interface Declaration",
+          "Hybrid Types"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": "Functions:",
+        "details": [
+          "Typing Functions",
+          "Function Overloading"
+        ]
+      },
+      {
+        "description": "Generics:",
+        "details": [
+          "Generic Types",
+          "Generic Constraints"
+        ]
+      },
+      {
+        "description": "Utility Types:",
+        "details": [
+          "Partial",
+          "Pick",
+          "Omit",
+          "Readonly",
+          "Record",
+          "Exclude",
+          "Extract",
+          "Non Nullable",
+          "Parameters",
+          "ReturnType",
+          "InstanceType",
+          "Awaited",
+          "..."
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "Type Guards:",
+        "details": [
+          "Equality",
+          "Truthiness",
+          "Type Predicates",
+          "instanceof operator",
+          "typeof operator"
+        ]
+      },
+      {
+        "description": "Classes:",
+        "details": [
+          "Constructor Params",
+          "Constructor Overloading",
+          "Access Modifiers",
+          "Abstract Classes",
+          "Inheritance vs Polymorphism",
+          "Method Overriding"
+        ]
+      },
+      {
+        "description": "Advanced Types:",
+        "details": [
+          "Mapped Types",
+          "Conditional Types",
+          "Literal Types",
+          "Template Literal Types",
+          "Recursive Types"
+        ]
+      },
+      {
+        "description": "Decorators",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

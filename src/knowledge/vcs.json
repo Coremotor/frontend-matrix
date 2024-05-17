@@ -1,0 +1,129 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": [
+          "освоил работу с одной VCS (commit, merge, push, pull, checkout, log)",
+          "понимает и соблюдает gitflow",
+          "грамотно пишет комментарии к commit-ам",
+          "грамотно именует branches",
+          "умеет решать конфликты"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": "Освоил расширенные функции:",
+        "details": [
+          "поиск ветки по коммиту",
+          "cherry-pick",
+          "blame",
+          "gitignore",
+          "gitattribute",
+          "reset",
+          "merge",
+          "fast-forward"
+        ]
+      },
+      {
+        "description": "Stash. Может слить несколько коммитов в один, корректно сделать rebase и залить задачу одним коммитом.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "Понимает различные модели стратегий ветвления (TBD, GitFlow, GitHub Flow)",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

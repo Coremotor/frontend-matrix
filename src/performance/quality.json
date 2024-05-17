@@ -1,0 +1,121 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": [
+          "пишет работающий, тестируемый код"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      },
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": [
+          "код в основном не содержит ошибок",
+          "контролирует реализованный функционал (QA, Prod)"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": [
+          "ошибки в коде бывают кайне редко"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

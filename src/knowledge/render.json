@@ -1,0 +1,124 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "Клиентский.",
+        "details": []
+      },
+      {
+        "description": "Серверный.",
+        "details": []
+      },
+      {
+        "description": "Изоморфный",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "Варианты рендеринга:",
+        "details": [
+          "RSC",
+          "CSR",
+          "SSR",
+          "SSG",
+          "ISR"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "Попробовать варианты рендеренга реализовать с помощью фрэймворка Next.js",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "Попробовать варианты рендеренга реализовать с помощью фрэймворка Next.js",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

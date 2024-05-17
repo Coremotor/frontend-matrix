@@ -1,0 +1,148 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": "Прочитал/просмотрел краткий обзор всех CSS свойств. Есть понимание для чего они нужны и что делают.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": "Может пояснить, показать, рассказать, применять про:",
+        "details": [
+          "селекторы",
+          "каскад",
+          "специфичность",
+          "наследование",
+          "цвет",
+          "единицы измерения размеров",
+          "flexbox",
+          "расстояния",
+          "границы",
+          "тени",
+          "фокус",
+          "z-индекс",
+          "градиенты",
+          "списки",
+          "переходы",
+          "переполнение",
+          "фоны",
+          "текст и типографика"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": "Может пояснить, показать, рассказать, применять про:",
+        "details": [
+          "макет",
+          "переменные",
+          "grid",
+          "логические свойства",
+          "псевдоэлементы",
+          "псевдоклассы",
+          "функции",
+          "анимации",
+          "фильтры",
+          "режимы наложения"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "Изучил, знает/применяет css-препроцессор SASS:",
+        "details": [
+          "variables",
+          "nesting",
+          "partials",
+          "modules",
+          "mixins",
+          "inheritance",
+          "operators"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

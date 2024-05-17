@@ -1,0 +1,128 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": [
+          "HTTP сообщение",
+          "Methods (GET, POST, PUT, PATCH, OPTIONS)",
+          "Http status",
+          "Content type",
+          "Cookie",
+          "Передача параметров на сервер",
+          "Клиент/серверная архитектура",
+          "Устройство интернета",
+          "Адресация в интернете",
+          "Публичные и локальные адреса",
+          "Доменные имена",
+          "Может воспроизвести простой Web-запрос"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": [
+          "DNS система",
+          "DNS сервера",
+          "Виды DNS-серверов",
+          "HTTPS зачем нужен, как примерно работает"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "Понимание работы веб-серверов (nginx)",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "Знает основные уровни модели OSI.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

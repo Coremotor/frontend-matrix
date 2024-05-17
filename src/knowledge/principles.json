@@ -1,0 +1,126 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": " --- ",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "Принципы:",
+        "details": [
+          "Будь проще, Саймон (Keep It Simple Simon, KISS)",
+          "Вам это не понадобится (You Aren't Gonna Need It, YAGNI)",
+          "Дважды отмерь и один раз отрежь (Measure Twice and Cut Once)",
+          "Не повторяйся (Don’t Repeat Yourself, DRY)",
+          "Бритва Оккама",
+          "Сначала большое проектирование (Big Design Up Front, BDUF)",
+          "Избегайте преждевременной оптимизации",
+          "Наименьшее удивление",
+          "Закон Деметры"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "S.O.L.I.D:",
+        "details": [
+          "Single Responsibility Principle (SRP)",
+          "Open/Closed Principle (OCP)",
+          "Liskov Substitution Principle",
+          "Interface Segregation Principle",
+          "Dependency Inversion Principle"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

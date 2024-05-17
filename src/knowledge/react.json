@@ -1,0 +1,161 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": "Components:",
+        "details": [
+          " Functional Components",
+          "JSX",
+          "Props vs State",
+          "Conditional Rendering"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": "Rendering:",
+        "details": [
+          "Component Life Cycle",
+          "Lists and Keys",
+          "Render Props",
+          "Refs",
+          "Events",
+          "High Order Components"
+        ]
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": "Hooks:",
+        "details": [
+          "useState",
+          "useEffect",
+          "useCallback",
+          "useContext",
+          "useDeferredValue",
+          "useLayoutEffect",
+          "useMemo",
+          "useReducer",
+          "useRef",
+          "useId",
+          "..."
+        ]
+      },
+      {
+        "description": "Writing Custom Hooks",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "Infrastructure:",
+        "details": [
+          "Routing",
+          "State Management",
+          "Styling",
+          "API Calls",
+          "Forms",
+          "..."
+        ]
+      },
+      {
+        "description": "Suspense",
+        "details": []
+      },
+      {
+        "description": "Lazy loading",
+        "details": []
+      },
+      {
+        "description": "Portals",
+        "details": []
+      },
+      {
+        "description": "Error Boundaries",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]

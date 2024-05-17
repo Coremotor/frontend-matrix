@@ -1,0 +1,237 @@
+[
+  {
+    "grade": "J0",
+    "knowledge": [
+      {
+        "description": "Variables:",
+        "details": [
+          "variable declarations",
+          "hoisting",
+          "naming rules",
+          "scopes"
+        ]
+      },
+      {
+        "description": "Datatypes:",
+        "details": [
+          "string",
+          "number",
+          "bigint",
+          "boolean",
+          "undefined",
+          "Symbol",
+          "null",
+          "object",
+          "typeOf operator",
+          "built-in objects"
+        ]
+      },
+      {
+        "description": "Equality comparisons, expressions and operators.",
+        "details": []
+      },
+      {
+        "description": "Loops and Iterations:",
+        "details": [
+          "for",
+          "do...while",
+          "while",
+          "for...in",
+          "for...of",
+          "break/continue",
+          "labeled statements"
+        ]
+      },
+      {
+        "description": "Conditional statements:",
+        "details": ["if", "if...else", "switch"]
+      }
+    ]
+  },
+  {
+    "grade": "J1",
+    "knowledge": [
+      {
+        "description": "Functions:",
+        "details": [
+          "function parameters",
+          "default parameters",
+          "rest parameters",
+          "arrow functions",
+          "IIFE",
+          "arguments object",
+          "scope and function stack",
+          "recursion",
+          "lexical scoping",
+          "closures",
+          "built-in functions"
+        ]
+      },
+      {
+        "description": "Type Casting:",
+        "details": [
+          "type conversion/coercion",
+          "explicit type casting",
+          "implicit type casting"
+        ]
+      },
+      {
+        "description": "Взаимодействие с DOM:",
+        "details": ["..."]
+      }
+    ]
+  },
+  {
+    "grade": "J2",
+    "knowledge": [
+      {
+        "description": "Asynchronous JavaScript:",
+        "details": [
+          "setTimeout",
+          "setInterval",
+          "callbacks",
+          " callback hell",
+          "promises",
+          "async/await",
+          "event loop"
+        ]
+      },
+      {
+        "description": "Exception Handling:",
+        "details": [
+          "throw statement",
+          "try, catch, finally",
+          "utilizing error objects"
+        ]
+      },
+      {
+        "description": "Working with APIs:",
+        "details": ["XMLHttpRequest", "fetch"]
+      },
+      {
+        "description": "Date, time:",
+        "details": ["..."]
+      }
+    ]
+  },
+  {
+    "grade": "J3",
+    "knowledge": [
+      {
+        "description": "Data Structures:",
+        "details": [
+          "indexed collections",
+          "keyed collections",
+          "structured data"
+        ]
+      },
+      {
+        "description": "This Keyword:",
+        "details": [
+          "this in a method",
+          "this in a function",
+          "using this alone",
+          "this in event handlers",
+          "this in arrow functions",
+          "explicit binding"
+        ]
+      },
+      {
+        "description": "Modules:",
+        "details": ["CommonJS", "ESModules"]
+      },
+      {
+        "description": "Object prototypes:",
+        "details": ["..."]
+      },
+      {
+        "description": "Classes:",
+        "details": ["..."]
+      },
+      {
+        "description": "RegExp.",
+        "details": []
+      },
+      {
+        "description": "Javascript Versions.",
+        "details": []
+      },
+      {
+        "description": "History of JavaScript.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "M3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S0",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S1",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S2",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  },
+  {
+    "grade": "S3",
+    "knowledge": [
+      {
+        "description": "",
+        "details": []
+      }
+    ]
+  }
+]
